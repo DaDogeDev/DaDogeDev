@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaDogeDev
-- 👀 I’m interested in space and scienceQ
+- 👀 I’m interested in space and science
 - 🌱 I’m currently learning python and HTML
 - 📫 How to reach me dadogedev@gmail.com or on discord dadogedev
 - 😄 Pronouns: he/him
