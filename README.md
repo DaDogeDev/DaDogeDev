@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DaDogeDev
+- 👀 I’m interested in space and scienceQ
+- 🌱 I’m currently learning python and HTML
+- 📫 How to reach me dadogedev@gmail.com or on discord dadogedev
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ive been going to coding school since 2020, it all started as a test class, until now, im still going! Read more about me here:https://dadogedev.github.io/
