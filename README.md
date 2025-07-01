@@ -3,14 +3,14 @@
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white)
-![OS](https://img.shields.io/badge/OS-EndeavourOS-4F5B93?logo=arch-linux&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Arch-4F5B93?logo=arch-linux&logoColor=white)
 
 ---
 
 ## 🌟 **About Me**  
 🎓  **8th-grade student** passionate about tech, programming, and open source.  
 💻  I love building projects with **HTML**, **CSS**, **Python**, and learning more about **JavaScript** and **Lua**.  
-🐧  Daily driver: **EndeavourOS**  
+🐧  Daily driver: **Arch Linux**  
 📜  Dream: To become a professional **developer** and tech expert 🚀  
 
 ---
@@ -20,7 +20,7 @@
 ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3.10-306998?logo=python&logoColor=white)  
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-EndeavourOS-4F5B93?logo=arch-linux&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-Arch-4F5B93?logo=arch-linux&logoColor=white)  
 
 ---
 
@@ -44,22 +44,22 @@ Here are a few of my favorite projects:
 ---
 
 ## 🧰 **My Tools and Setup**  
-- **OS**: EndeavourOS 🐧  
+- **OS**: Arch Linux 🐧  
 - **Editor**: Neovim 📝  
 - **Programming Languages**: Python, HTML, CSS, a bit of JavaScript and Lua.  
-- **Favorite Devices**: Laptop, rooted Samsung Tab 3, and my **Ventoy USB** 🚀  
+- **Favorite Devices**: Laptop, rooted Samsung Tab 3, and my **Mdeicat Ventoy USB** 🚀  
 
 ---
 
 ## 📈 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadogedev&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadogedev&show_icons=true&theme=gruvbox&count_private=true)
 
 ---
 
 ## 📫 **Let's Connect**  
 [![Discord](https://img.shields.io/badge/Discord-dadogedev-5865F2?logo=discord&logoColor=white)](https://discord.com/)  
-[![Email](https://img.shields.io/badge/Email-dadogedev@gmail.com-red?logo=gmail&logoColor=white)](mailto:dadogedev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dadogedev@gmail.com-red?logo=gmail&logoColor=white)](mailto:dadogedev@proton.me)
 
 ---
 
