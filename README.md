@@ -30,7 +30,7 @@
 - **GPU**: Intel HD Graphics 610  
 - **RAM**: 8 GB  
 - **Resolution**: 1366x768  
-- **Operating System**: EndeavourOS Linux x86_64  
+- **Operating System**: Arch Linux Linux x86_64  
 
 ---
 
