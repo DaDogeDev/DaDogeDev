@@ -8,10 +8,11 @@
 ---
 
 ## 🌟 **About Me**  
-🎓  **8th-grade student** passionate about tech, programming, and open source.  
-💻  I love building projects with **HTML**, **CSS**, **Python**, and learning more about **JavaScript** and **Lua**.  
-🐧  Daily driver: **Arch Linux**  
-📜  Dream: To become a professional **developer** and tech expert 🚀  
+🎓  **Computer Electrotechnician student** in high school "Nikola Tesla", passionate about tech, circuits, and code.  
+💻  I build cool stuff with **HTML**, **CSS**, **Python**, and tinker with **Arduino**, microcontrollers, and electronics.  
+📀  I daily-drive **Arch Linux**, mess with terminals for fun, and treat Neovim like a second home.  
+🛠️  Currently learning: low-level electronics, C programming, and how to not burn myself with a soldering iron 😅  
+🚀  Dream: To become a pro developer, open-source contributor, and hardware hacker.
 
 ---
 
@@ -47,7 +48,7 @@ Here are a few of my favorite projects:
 - **OS**: Arch Linux 🐧  
 - **Editor**: Neovim 📝  
 - **Programming Languages**: Python, HTML, CSS, a bit of JavaScript and Lua.  
-- **Favorite Devices**: Laptop, rooted Samsung Tab 3, and my **Mdeicat Ventoy USB** 🚀  
+- **Favorite Devices**: Laptop, rooted Samsung Tab 3, and my **Medicat Ventoy USB** 🛠️  
 
 ---
 
@@ -59,9 +60,8 @@ Here are a few of my favorite projects:
 
 ## 📫 **Let's Connect**  
 [![Discord](https://img.shields.io/badge/Discord-dadogedev-5865F2?logo=discord&logoColor=white)](https://discord.com/)  
-[![Email](https://img.shields.io/badge/Email-dadogedev@gmail.com-red?logo=gmail&logoColor=white)](mailto:dadogedev@proton.me)
+[![Email](https://img.shields.io/badge/Email-dadogedev@proton.me-red?logo=gmail&logoColor=white)](mailto:dadogedev@proton.me)
 
 ---
 
 🚀 **"Technology is the future, and I'm here to explore it!"** 🌌  
-
