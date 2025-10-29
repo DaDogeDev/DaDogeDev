@@ -11,8 +11,8 @@
 🎓  **Computer Electrotechnician student** in high school "Nikola Tesla", passionate about tech, circuits, and code.  
 💻  I build cool stuff with **HTML**, **CSS**, **Python**, and tinker with **Arduino**, microcontrollers, and electronics.  
 📀  I daily-drive **Arch Linux**, mess with terminals for fun, and treat Neovim like a second home.  
-🛠️  Currently learning: low-level electronics, C programming, and how to not burn myself with a soldering iron 😅  
-🚀  Dream: To become a pro developer, open-source contributor, and hardware hacker.
+🛠️  Currently learning: low-level electronics, Python programming, and how to not burn myself with a soldering iron 😅  
+🚀  Dream: To become a pro developer, open-source contributor, and hardware tinkerer.
 
 ---
 
@@ -25,12 +25,12 @@
 
 ---
 
-## 💻 **My Laptop**  
-- **Model**: HP 250 G7 Notebook PC  
-- **CPU**: Intel Pentium 4417U (4 cores)  
-- **GPU**: Intel HD Graphics 610  
-- **RAM**: 8 GB  
-- **Resolution**: 1366x768  
+## 💻 **My Rig**  
+- **Motherboard**:   Gigabyte H97-D3H-CF
+- **CPU**: Intel(R) Core(TM) i5-4670K CPU @ 3.40GHz
+- **GPU**: Radeon RX 580 Series
+- **RAM**: 8 GB  DDR3
+- **Monitors**: LG Electronics E2260 103LTAQ3H152 at 1920x1080@60 and Samsung Electronics America SAMTRON H9NXA03767 at 1280x1024@60
 - **Operating System**: Arch Linux Linux x86_64  
 
 ---
@@ -46,7 +46,7 @@ Here are a few of my favorite projects:
 
 ## 🧰 **My Tools and Setup**  
 - **OS**: Arch Linux 🐧  
-- **Editor**: Neovim 📝  
+- **Editor**: Neovim (with LazyVim) 📝  
 - **Programming Languages**: Python, HTML, CSS, a bit of JavaScript and Lua.  
 - **Favorite Devices**: Laptop, rooted Samsung Tab 3, and my **Medicat Ventoy USB** 🛠️  
 
@@ -54,7 +54,7 @@ Here are a few of my favorite projects:
 
 ## 📈 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadogedev&show_icons=true&theme=gruvbox&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadogedev&show_icons=true&theme=merko&count_private=true)
 
 ---
 
@@ -62,6 +62,4 @@ Here are a few of my favorite projects:
 [![Discord](https://img.shields.io/badge/Discord-dadogedev-5865F2?logo=discord&logoColor=white)](https://discord.com/)  
 [![Email](https://img.shields.io/badge/Email-dadogedev@proton.me-red?logo=gmail&logoColor=white)](mailto:dadogedev@proton.me)
 
----
-
-🚀 **"Technology is the future, and I'm here to explore it!"** 🌌  
+---  
