@@ -54,7 +54,7 @@ Here are a few of my favorite projects:
 
 ## 📈 **GitHub Stats**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadogedev&show_icons=true&theme=merko&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadogedev&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
