@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 **About Me**  
-🎓  **Computer Electrotechnician student** in high school "Nikola Tesla", passionate about tech, circuits, and code.  
+🎓  **Computer Engineering student** in high school "Nikola Tesla", passionate about tech, circuits, and code.  
 💻  I build cool stuff with **HTML**, **CSS**, **Python**, and tinker with **Arduino**, microcontrollers, and electronics.  
 📀  I daily-drive **Arch Linux**, mess with terminals for fun, and treat Neovim like a second home.  
 🛠️  Currently learning: low-level electronics, Python programming, and how to not burn myself with a soldering iron 😅  
