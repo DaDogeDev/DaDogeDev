@@ -1,10 +1,5 @@
 # 👋 Hello, I'm DaDogeDev!  
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white)
-![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white)
-![OS](https://img.shields.io/badge/OS-Arch-4F5B93?logo=arch-linux&logoColor=white)
-
 ---
 
 ## 🌟 **About Me**  
